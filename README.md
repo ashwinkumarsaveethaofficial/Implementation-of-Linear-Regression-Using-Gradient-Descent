@@ -8,10 +8,13 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the standard python libraries for Gradient design.
+2.Introduce the variables needed to execute the function.
+3.Use function for the representation of the graph.
+4.Using for loop apply the concept using the formulae.
+5.Execute the program and plot the graph.
+6.Predict and execute the values for the given conditions
+
 
 ## Program:
 ```
@@ -118,7 +121,8 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![image](https://github.com/ashwinkumarsaveethaofficial/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120731469/9b3ea740-6978-4eb7-aeba-d16cce45ae5e)
+
 
 
 ## Result:
