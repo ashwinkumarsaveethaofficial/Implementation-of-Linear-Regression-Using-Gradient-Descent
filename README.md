@@ -19,8 +19,6 @@ To write a program to predict the profit of a city using the linear regression m
 5.Execute the program and plot the graph.
 
 6.Predict and execute the values for the given conditions
-
-
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
